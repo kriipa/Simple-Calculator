@@ -1,5 +1,4 @@
-# simple_calculator.py
-assignment of simple calculator using tkinter
+Assignment of Simple Calculator using Tkinter-GUI
 
 <h1>ScreenShots of My Simple Calculator</h1>
 
